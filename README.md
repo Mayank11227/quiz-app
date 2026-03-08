@@ -5,7 +5,7 @@ An interactive Quiz Application that allows users to test their knowledge throug
 This project is built to demonstrate core front-end development concepts such as DOM manipulation, event handling, and dynamic content rendering using modern web technologies.
 
 ---
-here is live deployment link = 
+here is live deployment link = https://quiz-app44.netlify.app/
 
 ## 🚀 Features
 
