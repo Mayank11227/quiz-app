@@ -15,7 +15,7 @@ here is live deployment link = https://quiz-app44.netlify.app/
 - Simple and user-friendly interface
 - Responsive design for different screen sizes
 
----
+
 
 ## 🛠️ Technologies Used
 
