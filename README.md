@@ -9,7 +9,7 @@ here is live deployment link = https://quiz-app44.netlify.app/
 
 ## 🚀 Features
 
-- Multiple choice quiz questions
+- (MCQ) based quiz
 - Instant answer selection
 - Score calculation at the end of the quiz
 - Simple and user-friendly interface
