@@ -20,7 +20,7 @@ here is live deployment link = https://quiz-app44.netlify.app/
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the application  
-- **CSS3** – Styling and layout  
+- **CSS3** – Styling and layout.
 - **Vanilla JavaScript** – Quiz logic and user interaction  
 
 ---
